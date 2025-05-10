@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-maytapi",
+  "version": "1.0.0",
+  "description": "WhatsApp API client using Maytapi for sending text messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 1",
+    "keywords": [
+    "whatsapp",
+    "api",
+    "maytapi",
+    "nodejs",
+    "document"
+  ],
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "Senin İsmin",
+  "license": "MIT"
+}
