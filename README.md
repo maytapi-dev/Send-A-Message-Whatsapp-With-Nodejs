@@ -7,6 +7,16 @@ Effortlessly send text messages via WhatsApp using Maytapi's powerful API.
 - Flexible messaging options
 - Comprehensive error handling
 
+## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
+
 ## 📦 Installation
 ```bash
 npm install whatsapp-text-api
